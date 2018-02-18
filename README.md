@@ -1,17 +1,17 @@
 # sniper
 
-Micro services is a new software architecture. It is based on web services. But it can be any service implemented as an independent feature that has its own database and can be deployed independently.
+Microservices is a new software architecture. It is based on web services. But it can be any service implemented as an independent feature that has its own database and can be deployed independently.
 
-Micro services are generally implemented in REST over HTTP protocol. Web services can be implemented in REST, SOAP etc.
+Microservices are generally implemented in REST over HTTP protocol. Web services can be implemented in REST, SOAP etc.
 
-Micro services is an approach to developing a single application as a suite of small services, each running in its own process and communicating with lightweight mechanisms, often an HTTP resource API. These services are built around business capabilities and independently deployable by fully automated deployment machinery. There is a bare minimum of centralized management of these services, which may be written in different programming languages and use different data storage technologies.
+Microservices is an approach to developing a single application as a suite of small services, each running in its own process and communicating with lightweight mechanisms, often an HTTP resource API. These services are built around business capabilities and independently deployable by fully automated deployment machinery. There is a bare minimum of centralized management of these services, which may be written in different programming languages and use different data storage technologies.
 
 What Is a Service? It is “a system supplying a public need.”
 
 Micro Service Architecture (MSA) can be seen as a light weight SOA.
 SOA is more enterprise oriented, MSA is simpler in the sense it is easier to do service integration.
 
-In Micro Service, each service has a bounded context, having its own data model and its own DB. The services communicate with each other through REST/JSON.
+In Microservices, each service has a bounded context, having its own data model and its own DB. The services communicate with each other through REST/JSON.
 
 Spring Boot is a new framework or new spring module which provides RAD (Rapid Application Development) feature to spring framework.
 
